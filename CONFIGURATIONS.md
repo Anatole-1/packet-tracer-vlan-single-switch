@@ -1,4 +1,4 @@
-# Configurations – Segmentation VLAN (partie A)
+# Configurations – Segmentation VLAN sur un switch
 
 Configuration complète de chaque équipement, exportée depuis le fichier Packet Tracer.
 Les mots de passe et numéros de série sont masqués ; les interfaces sans configuration sont omises.

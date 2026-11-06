@@ -1,6 +1,6 @@
-# Segmentation VLAN sur un switch – Contrôle réseaux (partie A)
+# Segmentation VLAN sur un switch – Cisco Packet Tracer
 
-Contrôle de réseaux réalisé à l'ESAIP (IR3), partie A : segmentation d'un réseau local en deux VLAN sur un seul switch Cisco 2960 afin d'isoler deux groupes d'utilisateurs.
+Segmentation d'un réseau local en deux VLAN sur un seul switch Cisco 2960 afin d'isoler deux groupes d'utilisateurs.
 
 ![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer%208.2-1BA0D7?logo=cisco&logoColor=white)
 ![Switching](https://img.shields.io/badge/Switching-VLAN-informational)
@@ -63,7 +63,7 @@ Ouvrir [`controle-vlan-partie-a.pkt`](controle-vlan-partie-a.pkt) avec **Cisco P
 
 ## Voir aussi
 
-- [Partie C – VLAN répartis sur deux switchs avec trunk 802.1Q](https://github.com/Anatole-1/packet-tracer-vlan-8021q-trunk)
+- [VLAN répartis sur deux switchs avec trunk 802.1Q](https://github.com/Anatole-1/packet-tracer-vlan-8021q-trunk)
 
 ## Contenu du dossier
 
@@ -73,7 +73,3 @@ Ouvrir [`controle-vlan-partie-a.pkt`](controle-vlan-partie-a.pkt) avec **Cisco P
 | [`CONFIGURATIONS.md`](CONFIGURATIONS.md) | Configuration de chaque équipement et adressage des postes, en un seul fichier |
 | [`configs/`](configs/) | Une configuration brute par équipement (`.txt`) |
 | [`images/`](images/) | Captures de la topologie |
-
-## Auteur
-
-**Anatole BERNARD** – étudiant ingénieur à l'ESAIP
